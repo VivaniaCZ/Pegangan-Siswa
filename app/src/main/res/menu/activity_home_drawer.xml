@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Lihat">
+        <menu android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_PR"
+                android:icon="@drawable/ic_menu_camera"
+                android:title="PR" />
+            <item
+                android:id="@+id/nav_Ulangan"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Ulangan" />
+            <item
+                android:id="@+id/nav_Jadwal"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Jadwal" />
+            <item
+                android:id="@+id/nav_Guru"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Guru" />
+
+        </menu>
+
+
+    </item>
+</menu>

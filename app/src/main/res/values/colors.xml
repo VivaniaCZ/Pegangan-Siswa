@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ed1515</color>
+    <color name="colorPrimaryDark">#e21414</color>
+    <color name="colorAccent">#ed1515</color>
+    <color name="putih">#ffffff</color>
+    <color name="BiruMain">#1976d2</color>
+    <color name="Hitam">#000000</color>
+</resources>
